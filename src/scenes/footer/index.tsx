@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { SelectedPage } from "../../shared/types";
 import Logo from "../../assets/Logo.png";
 
 const footerLinks = [
