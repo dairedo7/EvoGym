@@ -5,4 +5,4 @@ was taken care of using react-hook-form.
 To make sure that all types are in check and each component receives the proper data type in their props - interfaces and types were added.
 
 You can find the page deployed on cloudflare: https://evogym-6c5.pages.dev/
-Web Page was used for learning purposes only.
+Web Page was created for learning purposes only.
