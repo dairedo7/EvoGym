@@ -78,7 +78,7 @@ const Navbar = ({ selectedPage, setSelectedPage, isTopOfPage }: Props) => {
           <div className="flex justify-end p-12">
             <button onClick={() => setIsMenuToggled(!isMenuToggled)}>
               <XMarkIcon className="h-6 w-6 text-gray-400" />
-            </button>{" "}
+            </button>
           </div>
           {/* MENU ITEMS */}
           <div className="ml-[33%] flex flex-col gap-10 text-2xl">
